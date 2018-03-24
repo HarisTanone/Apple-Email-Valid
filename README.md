@@ -1,5 +1,6 @@
 # Apple-Email-Valid
 Cara menggunakan
+
 php apple.php email_list.txt
 
 disarankan untuk menggunakan php v7 dikarenakan menggunakan code warna 
